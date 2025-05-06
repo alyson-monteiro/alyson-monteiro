@@ -22,6 +22,5 @@ Developer by choice, debugger by necessity, caffeine-powered by design.
 
 ## 📊 GitHub Stats
 
-![Alyson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyson-monteiro&theme=default)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alyson-monteiro&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyson-monteiro&theme=default)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alyson-monteiro&layout=compact&theme=default)
