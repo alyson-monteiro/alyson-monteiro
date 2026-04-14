@@ -1,7 +1,5 @@
 # Hi there, I'm Alyson Monteiro welcome to my profile 👋
 
-Developer by choice, debugger by necessity, caffeine-powered by design.
-
 🌍 From Brazil  
 📚 Always learning and exploring new tech
 
