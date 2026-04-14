@@ -30,4 +30,4 @@ Developer by choice, debugger by necessity, caffeine-powered by design.
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyson-monteiro&theme=default)
+![3D Graph](./profile-3d-contrib/profile-night-view.svg)
