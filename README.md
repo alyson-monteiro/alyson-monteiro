@@ -30,4 +30,4 @@ Developer by choice, debugger by necessity, caffeine-powered by design.
 
 ## 📊 GitHub Stats
 
-![3D Graph](./profile-3d-contrib/profile-night-view.svg)
+![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
