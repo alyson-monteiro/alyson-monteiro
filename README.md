@@ -24,6 +24,9 @@
 - Legacy system maintenance (PHP / OpenCart)
 - API development and troubleshooting
 
+### STREAKS:
+![LeetCode Stats](https://leetcard.jacoblin.cool/wAlyBaiter)
+![Duolingo](https://duolingo-stats-card.vercel.app/api?username=AlysonMont346630)
 ---
 
 ## 📊 GitHub Stats
