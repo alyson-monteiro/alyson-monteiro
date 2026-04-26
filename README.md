@@ -27,7 +27,7 @@
 ### STREAKS:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/wAlyBaiter)
 ![Duolingo](https://duolingo-stats-card.vercel.app/api?username=AlysonMont346630)
-![Chess](https://chesscom-badge-production.up.railway.app/pub/player/alyson_waly/stats/blitz/black)
+![Chess](https://chesscom-badge-production.up.railway.app/pub/player/alyson_waly/stats/rapid/black)
 ---
 
 ## 📊 GitHub Stats
